@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nca.Web", "Nca.Web\Nca.Web.csproj", "{EC1637D8-B1BA-40B1-A9B9-BB52283608AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Themes", "Themes", "{1238B894-6134-4236-A324-05A40F13835B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{DA3C19FB-B36C-47EF-A425-5219854BE93E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nca.FirstModule", "Nca.FirstModule\Nca.FirstModule.csproj", "{32DB307B-A19B-4820-8C00-7D20BC661081}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1D24D9CC-1618-4F1C-BE03-944E176339B3}"
+	ProjectSection(SolutionItems) = preProject
+		Nuget.config = Nuget.config
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nca.Themes.MainTheme", "Templates\Nca.MainTheme\Nca.Themes.MainTheme.csproj", "{F42D8E19-1146-420E-AB85-82D5D290D9AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC1637D8-B1BA-40B1-A9B9-BB52283608AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1637D8-B1BA-40B1-A9B9-BB52283608AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1637D8-B1BA-40B1-A9B9-BB52283608AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1637D8-B1BA-40B1-A9B9-BB52283608AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32DB307B-A19B-4820-8C00-7D20BC661081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DB307B-A19B-4820-8C00-7D20BC661081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DB307B-A19B-4820-8C00-7D20BC661081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DB307B-A19B-4820-8C00-7D20BC661081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F42D8E19-1146-420E-AB85-82D5D290D9AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42D8E19-1146-420E-AB85-82D5D290D9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42D8E19-1146-420E-AB85-82D5D290D9AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42D8E19-1146-420E-AB85-82D5D290D9AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{32DB307B-A19B-4820-8C00-7D20BC661081} = {DA3C19FB-B36C-47EF-A425-5219854BE93E}
+		{F42D8E19-1146-420E-AB85-82D5D290D9AF} = {1238B894-6134-4236-A324-05A40F13835B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34D6F084-D87D-49E8-933C-B71FB1A9D8B4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\anguyencao\source\repos\Nca\Nca.FirstModule\bin\Debug\netstandard2.1\Nca.FirstModule.deps.json
+C:\Users\anguyencao\source\repos\Nca\Nca.FirstModule\bin\Debug\netstandard2.1\Nca.FirstModule.dll
+C:\Users\anguyencao\source\repos\Nca\Nca.FirstModule\bin\Debug\netstandard2.1\Nca.FirstModule.pdb
+C:\Users\anguyencao\source\repos\Nca\Nca.FirstModule\obj\Debug\netstandard2.1\Nca.FirstModule.csprojAssemblyReference.cache
+C:\Users\anguyencao\source\repos\Nca\Nca.FirstModule\obj\Debug\netstandard2.1\Nca.FirstModule.AssemblyInfoInputs.cache
+C:\Users\anguyencao\source\repos\Nca\Nca.FirstModule\obj\Debug\netstandard2.1\Nca.FirstModule.AssemblyInfo.cs
+C:\Users\anguyencao\source\repos\Nca\Nca.FirstModule\obj\Debug\netstandard2.1\Nca.FirstModule.dll
+C:\Users\anguyencao\source\repos\Nca\Nca.FirstModule\obj\Debug\netstandard2.1\Nca.FirstModule.pdb
+C:\Users\anguyencao\source\repos\Nca\nca-orchardCms\Nca.FirstModule\bin\Debug\netstandard2.1\Nca.FirstModule.deps.json
+C:\Users\anguyencao\source\repos\Nca\nca-orchardCms\Nca.FirstModule\bin\Debug\netstandard2.1\Nca.FirstModule.dll
+C:\Users\anguyencao\source\repos\Nca\nca-orchardCms\Nca.FirstModule\bin\Debug\netstandard2.1\Nca.FirstModule.pdb
+C:\Users\anguyencao\source\repos\Nca\nca-orchardCms\Nca.FirstModule\obj\Debug\netstandard2.1\Nca.FirstModule.csprojAssemblyReference.cache
+C:\Users\anguyencao\source\repos\Nca\nca-orchardCms\Nca.FirstModule\obj\Debug\netstandard2.1\Nca.FirstModule.AssemblyInfoInputs.cache
+C:\Users\anguyencao\source\repos\Nca\nca-orchardCms\Nca.FirstModule\obj\Debug\netstandard2.1\Nca.FirstModule.AssemblyInfo.cs
+C:\Users\anguyencao\source\repos\Nca\nca-orchardCms\Nca.FirstModule\obj\Debug\netstandard2.1\Nca.FirstModule.dll
+C:\Users\anguyencao\source\repos\Nca\nca-orchardCms\Nca.FirstModule\obj\Debug\netstandard2.1\Nca.FirstModule.pdb

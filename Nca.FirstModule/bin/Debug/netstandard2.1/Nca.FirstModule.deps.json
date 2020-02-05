@@ -1,0 +1,35 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Nca.FirstModule/1.0.0": {
+        "dependencies": {
+          "OrchardCore.Module.Targets": "1.0.0-rc1-11721"
+        },
+        "runtime": {
+          "Nca.FirstModule.dll": {}
+        }
+      },
+      "OrchardCore.Module.Targets/1.0.0-rc1-11721": {}
+    }
+  },
+  "libraries": {
+    "Nca.FirstModule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrchardCore.Module.Targets/1.0.0-rc1-11721": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wRIUtiVeRFDamGxi5sZsfRxE2T4bx5RHHi1I1yvGVcYO0JS4v923sAT1Cvopnkd1fuconm474Cb5wo/Ttq4t6Q==",
+      "path": "orchardcore.module.targets/1.0.0-rc1-11721",
+      "hashPath": "orchardcore.module.targets.1.0.0-rc1-11721.nupkg.sha512"
+    }
+  }
+}
