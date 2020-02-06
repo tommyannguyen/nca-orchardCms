@@ -21,7 +21,5 @@
   <ItemGroup>
     <ProjectReference Include="..\Templates\Nca.MainTheme\Nca.Themes.MainTheme.csproj" />
   </ItemGroup>
-
-
-
+ 
 </Project>

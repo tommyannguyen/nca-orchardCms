@@ -1,31 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETStandard,Version=v2.1": {
-      "OrchardCore.Module.Targets/1.0.0-rc1-11721": {
-        "type": "package"
-      }
-    }
+    ".NETStandard,Version=v2.1": {}
   },
-  "libraries": {
-    "OrchardCore.Module.Targets/1.0.0-rc1-11721": {
-      "sha512": "wRIUtiVeRFDamGxi5sZsfRxE2T4bx5RHHi1I1yvGVcYO0JS4v923sAT1Cvopnkd1fuconm474Cb5wo/Ttq4t6Q==",
-      "type": "package",
-      "path": "orchardcore.module.targets/1.0.0-rc1-11721",
-      "files": [
-        ".nupkg.metadata",
-        "build/netcoreapp3.1/OrchardCore.Module.Targets.props",
-        "build/netcoreapp3.1/OrchardCore.Module.Targets.targets",
-        "build/netcoreapp3.1/Package.Build.props",
-        "orchardcore.module.targets.1.0.0-rc1-11721.nupkg.sha512",
-        "orchardcore.module.targets.nuspec"
-      ]
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETStandard,Version=v2.1": [
-      "OrchardCore.Module.Targets >= 1.0.0-rc1-11721"
-    ]
+    ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
     "C:\\Users\\anguyencao\\.nuget\\packages\\": {},
@@ -69,12 +49,6 @@
     },
     "frameworks": {
       "netstandard2.1": {
-        "dependencies": {
-          "OrchardCore.Module.Targets": {
-            "target": "Package",
-            "version": "[1.0.0-rc1-11721, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
@@ -85,11 +59,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "NETStandard.Library": {
-            "privateAssets": "all"
-          }
-        },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }

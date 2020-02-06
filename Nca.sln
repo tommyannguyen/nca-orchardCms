@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Themes", "Themes", "{1238B8
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{DA3C19FB-B36C-47EF-A425-5219854BE93E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nca.FirstModule", "Nca.FirstModule\Nca.FirstModule.csproj", "{32DB307B-A19B-4820-8C00-7D20BC661081}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nca.FirstModule", "Modules\Nca.FirstModule\Nca.FirstModule.csproj", "{32DB307B-A19B-4820-8C00-7D20BC661081}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1D24D9CC-1618-4F1C-BE03-944E176339B3}"
 	ProjectSection(SolutionItems) = preProject

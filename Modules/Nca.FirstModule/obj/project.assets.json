@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "OrchardCore.Module.Targets/1.0.0-rc1-11721": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "OrchardCore.Module.Targets/1.0.0-rc1-11721": {
+      "sha512": "wRIUtiVeRFDamGxi5sZsfRxE2T4bx5RHHi1I1yvGVcYO0JS4v923sAT1Cvopnkd1fuconm474Cb5wo/Ttq4t6Q==",
+      "type": "package",
+      "path": "orchardcore.module.targets/1.0.0-rc1-11721",
+      "files": [
+        ".nupkg.metadata",
+        "build/netcoreapp3.1/OrchardCore.Module.Targets.props",
+        "build/netcoreapp3.1/OrchardCore.Module.Targets.targets",
+        "build/netcoreapp3.1/Package.Build.props",
+        "orchardcore.module.targets.1.0.0-rc1-11721.nupkg.sha512",
+        "orchardcore.module.targets.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "OrchardCore.Module.Targets >= 1.0.0-rc1-11721"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\anguyencao\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\anguyencao\\source\\repos\\Nca\\nca-orchardCms\\Modules\\Nca.FirstModule\\Nca.FirstModule.csproj",
+      "projectName": "Nca.FirstModule",
+      "projectPath": "C:\\Users\\anguyencao\\source\\repos\\Nca\\nca-orchardCms\\Modules\\Nca.FirstModule\\Nca.FirstModule.csproj",
+      "packagesPath": "C:\\Users\\anguyencao\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\anguyencao\\source\\repos\\Nca\\nca-orchardCms\\Modules\\Nca.FirstModule\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\anguyencao\\source\\repos\\Nca\\nca-orchardCms\\NuGet.Config",
+        "C:\\Users\\anguyencao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "dependencies": {
+          "OrchardCore.Module.Targets": {
+            "target": "Package",
+            "version": "[1.0.0-rc1-11721, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

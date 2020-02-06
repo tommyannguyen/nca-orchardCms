@@ -576,7 +576,6 @@ C:\Users\anguyencao\source\repos\Nca\nca-orchardCms\Templates\Nca.MainTheme\bin\
 C:\Users\anguyencao\source\repos\Nca\nca-orchardCms\Templates\Nca.MainTheme\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
 C:\Users\anguyencao\source\repos\Nca\nca-orchardCms\Templates\Nca.MainTheme\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
 C:\Users\anguyencao\source\repos\Nca\nca-orchardCms\Templates\Nca.MainTheme\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
-C:\Users\anguyencao\source\repos\Nca\nca-orchardCms\Templates\Nca.MainTheme\obj\Debug\netcoreapp3.1\Nca.Themes.MainTheme.csprojAssemblyReference.cache
 C:\Users\anguyencao\source\repos\Nca\nca-orchardCms\Templates\Nca.MainTheme\obj\Debug\netcoreapp3.1\staticwebassets\Nca.Themes.MainTheme.StaticWebAssets.Manifest.cache
 C:\Users\anguyencao\source\repos\Nca\nca-orchardCms\Templates\Nca.MainTheme\obj\Debug\netcoreapp3.1\staticwebassets\Nca.Themes.MainTheme.StaticWebAssets.xml
 C:\Users\anguyencao\source\repos\Nca\nca-orchardCms\Templates\Nca.MainTheme\obj\Debug\netcoreapp3.1\Nca.Themes.MainTheme.AssemblyInfoInputs.cache
@@ -584,3 +583,4 @@ C:\Users\anguyencao\source\repos\Nca\nca-orchardCms\Templates\Nca.MainTheme\obj\
 C:\Users\anguyencao\source\repos\Nca\nca-orchardCms\Templates\Nca.MainTheme\obj\Debug\netcoreapp3.1\Nca.Themes.MainTheme.RazorTargetAssemblyInfo.cache
 C:\Users\anguyencao\source\repos\Nca\nca-orchardCms\Templates\Nca.MainTheme\obj\Debug\netcoreapp3.1\Nca.Themes.MainTheme.dll
 C:\Users\anguyencao\source\repos\Nca\nca-orchardCms\Templates\Nca.MainTheme\obj\Debug\netcoreapp3.1\Nca.Themes.MainTheme.pdb
+C:\Users\anguyencao\source\repos\Nca\nca-orchardCms\Templates\Nca.MainTheme\obj\Debug\netcoreapp3.1\Nca.Themes.MainTheme.csprojAssemblyReference.cache
